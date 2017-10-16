@@ -1,5 +1,8 @@
 /*
 
+brew install awscli
+https://github.com/aws/aws-cli
+
 Bucket: react-notes-app-uploads
 
 Cognito User Pool Id us-east-1_cayMvxHZ7
