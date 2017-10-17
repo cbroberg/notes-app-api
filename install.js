@@ -74,5 +74,12 @@ apig-test \
 
 https://realfavicongenerator.net/
 
+aws cognito-idp admin-confirm-sign-up \
+   --region us-east-1 \
+   --user-pool-id us-east-1_cayMvxHZ7 \
+   --username cb@webhouse.dk
+
+aws configure set preview.cloudfront true
+
 */
 
