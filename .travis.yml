@@ -9,7 +9,7 @@ cache:
 
 script: 
     - npm install -g serverless
-    - npm run build
+    # - npm run build
     - sls deploy
     
 deploy:
